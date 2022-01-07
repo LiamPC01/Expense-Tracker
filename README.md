@@ -1,2 +1,2 @@
 # Expense-Tracker
-Add and view items to expense tracker
+Add items to expense tracker and view them
