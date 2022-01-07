@@ -41,7 +41,7 @@ void addItem()
 	std::ofstream file("items.txt", std::ios::app);
 	if (!file.is_open())
 	{
-		std::cerr << "Error Opening item.txt\n";
+		std::cerr << "Error Opening items.txt\n";
 	}
 
 	// appends itemInfo to file
