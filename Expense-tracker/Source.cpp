@@ -57,7 +57,7 @@ void viewItems()
 	std::ifstream file("items.txt");
 	if (!file.is_open())
 	{
-		std::cerr << "Error Opening item.txt\n";
+		std::cerr << "Error Opening items.txt\n";
 	}
 
 	std::string line;
