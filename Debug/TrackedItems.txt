@@ -1,0 +1,1 @@
+|Item name: blah|Price: blahblah|Date of Purchase: blahblahblah|
